@@ -25,4 +25,3 @@ This will take a list of accession numbers "accession_ids.txt" and the downloade
 Then used the makeblastdb command, downloadable from https://blast.ncbi.nlm.nih.gov/Blast.cgi
 makeblastdb -in Filaria_AllCOI_species.fasta -parse_seqids -blastdb_version 5 -taxid_map [Db_name]_map.txt -title "[Db_name] database" -out [Db_name] -dbtype nucl
 This produces the blast database, consisting of 10 files required by NanoCLUST. 
-![image](https://user-images.githubusercontent.com/16313083/227412884-ef86b06c-c621-451c-a817-531f583ea116.png)
