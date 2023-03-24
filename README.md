@@ -2,10 +2,11 @@
 NanoCLUST/NCBI databases for filarial worms and apicomplexans
 
 Download filarial worm database from here
-https://melbourne.figshare.com/ndownloader/files/39387152
+https://melbourne.figshare.com/account/projects/160631/articles/22153730
 
 Download apicomplexan database from here
-https://melbourne.figshare.com/ndownloader/files/39387155
+https://melbourne.figshare.com/account/projects/160631/articles/22153529
+
 
 Construction of Filarial Worm and Apicomplexan Haemoparasite Databases for NanoCLUST:
 
