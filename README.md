@@ -1,7 +1,12 @@
 # Huggins_NanoCLUST
 NanoCLUST/NCBI databases for filarial worms and apicomplexans
+Download filarial worm database from here
+https://melbourne.figshare.com/ndownloader/files/39387152
+Download apicomplexan database from here
+https://melbourne.figshare.com/ndownloader/files/39387155
 
 Construction of Filarial Worm and Apicomplexan Haemoparasite Databases for NanoCLUST:
+
 Within NCBI nucleotide the filarial worm COI gene Db was constructed using the search terms:
 (((((((((((cytochrome c oxidase subunit 1[Title]) OR cytochrome c oxidase subunit I) OR cytochrome oxidase subunit 1) OR cytochrome oxidase subunit I) OR COX1) OR CO1) OR COI)) AND txid6295[Organism:exp])) AND 100:100000[Sequence Length])
 And the NCBI accession NR_029255.1 (Aliivibrio fischeri) required for identification of our positive control. 
